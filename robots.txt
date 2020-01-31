@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeniepaiy.notionwm.net/sitemap.xml
